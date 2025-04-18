@@ -1,13 +1,5 @@
 {
-    "excel_path": "C:/crear_spotify_bot/correos_spotify.xlsx",
-    "chrome_driver_path": "C:/crear_spotify_bot/chromedriver.exe",
-    "api_key_2captcha": "7046b4b999320ef3d96f122086993a21",
-    "cantidad_cuentas": 3,
-    "usar_proxy": false,
-    "proxy_config": {
-        "host": "proxy.iproyal.com",
-        "port": 12345,
-        "usuario": "usuario_proxy",
-        "clave": "clave_proxy"
-    }
+  "excel_path": "C:/crear_spotify_bot/correos_spotify.xlsx",
+  "chrome_driver_path": "C:/crear_spotify_bot/chromedriver.exe",
+  "api_key_2captcha": "PON_AQUI_TU_API_KEY"
 }
